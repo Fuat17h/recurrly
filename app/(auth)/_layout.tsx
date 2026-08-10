@@ -1,5 +1,5 @@
 import { Stack } from "expo-router";
 
 export default function RootLayout() {
-  return <Stack initialRouteName="(tabs)/index" />;
+    return <Stack screenOptions={{headerShown: false}} />;
 }
