@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f07ae2c-36cf-43f3-9e70-4771dd51f469" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/recurrly.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/explore.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/_layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/modal.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/external-link.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/haptic-tab.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/hello-wave.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/parallax-scroll-view.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/themed-text.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/themed-view.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/collapsible.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/icon-symbol.ios.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/icon-symbol.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants/theme.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/use-color-scheme.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/use-color-scheme.web.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/use-theme-color.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/reset-project.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativewind-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,61 +28,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.5881971328879652" />
-      <entry key="MS500" value="2.5074247941797854" />
-      <entry key="S2" value="2.891632798665288" />
-      <entry key="S5" value="3.9003370042809973" />
-      <entry key="S10" value="6.245274626656202" />
-      <entry key="S30" value="10.740910782623796" />
-      <entry key="S60" value="13.079040913068237" />
-      <entry key="M2" value="15.548837056378149" />
-      <entry key="M5" value="18.554401756395585" />
-      <entry key="M10" value="20.077956080874618" />
-      <entry key="M15" value="20.669009966427478" />
-      <entry key="M30" value="21.308198466495327" />
-      <entry key="H1" value="21.64722668002431" />
-      <entry key="H2" value="21.821856738651853" />
-      <entry key="H4" value="21.910484315931956" />
-      <entry key="D1" value="21.985018624583187" />
-      <entry key="W1" value="21.997858277308502" />
+      <entry key="MS100" value="1.561767597477267" />
+      <entry key="MS500" value="2.4323861416516186" />
+      <entry key="S2" value="2.8314430060722118" />
+      <entry key="S5" value="2.9300752324455335" />
+      <entry key="S10" value="2.9646059394079796" />
+      <entry key="S30" value="3.0237244776238184" />
+      <entry key="S60" value="3.4930141812783084" />
+      <entry key="M2" value="4.877830108325615" />
+      <entry key="M5" value="8.570000162347792" />
+      <entry key="M10" value="16.490331275758635" />
+      <entry key="M15" value="23.532777191735068" />
+      <entry key="M30" value="36.11197587190615" />
+      <entry key="H1" value="45.83600612742576" />
+      <entry key="H2" value="51.91782229677482" />
+      <entry key="H4" value="55.3238120339793" />
+      <entry key="D1" value="58.36761747548861" />
+      <entry key="W1" value="58.90916507922345" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="S2" value="1.0984023353193965E-196" />
+      <entry key="S5" value="4.133372817128138E-79" />
+      <entry key="S10" value="6.429131214346257E-40" />
+      <entry key="S30" value="8.630794242251306E-14" />
+      <entry key="S60" value="2.9378213428068267E-7" />
+      <entry key="M2" value="5.420167287830541E-4" />
+      <entry key="M5" value="0.04938613921580167" />
+      <entry key="M10" value="0.22222992421319349" />
+      <entry key="M15" value="0.3668892825217219" />
+      <entry key="M30" value="0.605713861919737" />
+      <entry key="H1" value="0.778276211842387" />
+      <entry key="H2" value="0.882199643982238" />
+      <entry key="H4" value="0.9392548344204771" />
+      <entry key="D1" value="0.9896096156582498" />
+      <entry key="W1" value="0.9985090067452494" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.5071379039388955" />
-      <entry key="MS500" value="2.482724841612863" />
-      <entry key="S2" value="2.884605765017518" />
-      <entry key="S5" value="3.895855435807349" />
-      <entry key="S10" value="6.2401624648160094" />
-      <entry key="S30" value="10.736719105480837" />
-      <entry key="S60" value="13.0744340711356" />
-      <entry key="M2" value="15.543333764620323" />
-      <entry key="M5" value="18.5501173911091" />
-      <entry key="M10" value="20.075238080531097" />
-      <entry key="M15" value="20.667045604607218" />
-      <entry key="M30" value="21.307133039147583" />
-      <entry key="H1" value="21.64667172780987" />
-      <entry key="H2" value="21.82157351504367" />
-      <entry key="H4" value="21.91034124315042" />
-      <entry key="D1" value="21.98499457413094" />
-      <entry key="W1" value="21.99785483648223" />
+      <entry key="MS100" value="1.4640260111560333" />
+      <entry key="MS500" value="2.4010322921842326" />
+      <entry key="S2" value="2.8222911362581193" />
+      <entry key="S5" value="2.926285181172899" />
+      <entry key="S10" value="2.962688297100501" />
+      <entry key="S30" value="3.023055718128711" />
+      <entry key="S60" value="3.492523754838738" />
+      <entry key="M2" value="4.8778885132210394" />
+      <entry key="M5" value="8.618562319392337" />
+      <entry key="M10" value="16.711037358617947" />
+      <entry key="M15" value="23.89794652527439" />
+      <entry key="M30" value="36.716186327792876" />
+      <entry key="H1" value="46.613278388269215" />
+      <entry key="H2" value="52.799440524204975" />
+      <entry key="H4" value="56.26275383560187" />
+      <entry key="D1" value="59.35717158648634" />
+      <entry key="W1" value="59.90766607192863" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -116,7 +102,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
